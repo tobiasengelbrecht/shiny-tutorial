@@ -1,3 +1,5 @@
+#GROUP 24: ITZKOWICHT SACHA, MAISTRE ELISE,  ENGELBRECHT TOBIAS
+
 # Load packages ----
 library(shiny)
 library(quantmod)
